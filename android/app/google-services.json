@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225703436014",
+    "project_id": "contributionapp-7ec6d",
+    "storage_bucket": "contributionapp-7ec6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225703436014:android:1a568f5a76542c951eddff",
+        "android_client_info": {
+          "package_name": "com.contributionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225703436014-8mbpmn0av1i447v15a61it6ui4akup97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMaJ_1GTtRtrH7ZT0a_4tYbBOdR-htcn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225703436014-8mbpmn0av1i447v15a61it6ui4akup97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
